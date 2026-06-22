@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
+    Uri="https://example.org/appinstaller"
+    Version="1.0.0.0">
+  <MainBundle
+      Name="40459File-New-Project.EarTrumpet"
+      Version="1.0.0.0"
+      Publisher="CN=File-New-Project, O=File-New-Project, L=Purcellville, S=Virginia, C=US"
+      Uri="https://install.eartrumpet.app/master/EarTrumpet.Package_2.3.0.0_x86.appxbundle" />
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0" />
+  </UpdateSettings>
+</AppInstaller>
