@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
-    Uri="https://example.org/appinstaller"
+    Uri="https://riverar.github.io/repro-8c01cfe9cf48/repro.appinstaller"
     Version="1.0.0.0">
   <MainBundle
       Name="40459File-New-Project.EarTrumpet"
