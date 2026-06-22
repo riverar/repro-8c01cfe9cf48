@@ -10,6 +10,6 @@
       Publisher="CN=File-New-Project, O=File-New-Project, L=Purcellville, S=Virginia, C=US"
       Uri="https://install.eartrumpet.app/master/EarTrumpet.Package_2.3.0.0_x86.appxbundle" />
   <UpdateSettings>
-    <OnLaunch HoursBetweenUpdateChecks="0" />
+    <OnLaunch HoursBetweenUpdateChecks="24" />
   </UpdateSettings>
 </AppInstaller>
