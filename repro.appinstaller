@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Adding dummy comment -->
 <AppInstaller
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
     Uri="https://riverar.github.io/repro-8c01cfe9cf48/repro.appinstaller"
